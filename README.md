@@ -1,12 +1,12 @@
-# React + Vite
+# OS-Simulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application that visually demonstrates core **Operating System concepts** such as process scheduling, memory management, and process states (running, waiting, terminated, zombie, orphan).
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🖥️ **Process Management** – Create, terminate, and visualize processes.
+- ⏳ **Scheduling Algorithms** – FCFS, Round Robin, SJF, Priority Scheduling (and more to add).
+- 💾 **Memory Management** – Allocation, fragmentation, and deallocation simulation.
+- 📊 **Live Visualization** – Animated process tables, Gantt charts, and queues for better understanding.
+- 🎨 **Modern UI** – Built with React, TailwindCSS, and shadcn for a clean, interactive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
