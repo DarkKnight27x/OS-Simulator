@@ -1,6 +1,6 @@
 # OS-Simulator
 
-A React-based web application that visually demonstrates core **Operating System concepts** such as process scheduling, memory management, and process states (running, waiting, terminated, zombie, orphan, etc.).
+A React-based web application that visually demonstrates core **Operating System concepts** such as process scheduling, memory management, and process states (running, waiting, terminated, zombie, orphan).
 
 ## 🚀 Features
 - 🖥️ **Process Management** – Create, terminate, and visualize processes.
